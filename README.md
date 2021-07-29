@@ -1,6 +1,5 @@
 ### OLÁ ME CHAMO WELINGTON 
 -🌿👨‍💻 Estudando Java e afins da área de back-end.🌿👨‍💻
-
 <div>
   <a href="https://github.com/wmelodasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmelodasilva&show_icons=false&theme=dark&title_color=ffdb58&bg_color=111111&include_all_commits=true&count_private=true"/>
