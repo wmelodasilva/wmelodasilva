@@ -1,4 +1,4 @@
-### OLÁ ME CHAMO WELINGTON 
+### OLÁ, ME CHAMO WELINGTON.
 -🌿👨‍💻 Estudando Java e afins da área de back-end.🌿👨‍💻
 <div>
   <a href="https://github.com/wmelodasilva">
