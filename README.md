@@ -16,8 +16,8 @@
   
   <div>
     <a href="https://www.instagram.com/wmelodasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ffdb58?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
-   <a href="www.linkedin.com/in/welington-melo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"         target="_blank"></a>
-   <a href="wmelodasilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="www.linkedin.com/in/welingtonmelo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"                 target="_blank"></a>
+   <a href="Welington Melo" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      ![Snake animation](https://github.com/wmelodasilva/wmelodasilva/blob/output/github-contribution-grid-snake.svg)
  </div>
  
