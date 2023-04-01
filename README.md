@@ -24,7 +24,7 @@
     
  </div>
    
- <p align="left"> 
+ <p align="center"> 
 
  ## Total de Visitas no perfil :octocat:: <br>
  <p align="center"> 
