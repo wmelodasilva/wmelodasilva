@@ -2,7 +2,7 @@
 -🌿👨‍💻 Estudando Java e afins da área de back-end.🌿👨‍💻
 <div>
   <a href="https://github.com/wmelodasilva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wmelodasilva&show_icons=false&theme=dark&title_color=ffdb58&bg_color=111111&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wmelodasilva&show_icons=false&theme=dark&title_color=15400e&bg_color=111111&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wmelodasilva&layout=compact&langs_count=7&theme=dark&title_color=ffdb58&bg_color=111111"/>
 </div>
   
